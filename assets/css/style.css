@@ -1,0 +1,11 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.text {
+  text-align: center;
+  color: blue;
+  font-size: 30px;
+}
